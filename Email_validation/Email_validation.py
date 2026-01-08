@@ -1,3 +1,21 @@
+# first method using for loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2nd method
 # a-z,0-9,. _ time 1
 # @ time 1
 #. 2,3
